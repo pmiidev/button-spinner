@@ -19,3 +19,13 @@ body{
     transition: 0.3s ease;
     box-shadow: 0 1rem 2rem -1rem rgba(0,0,0,1.445);
 }
+
+.btn:hover{
+    background-color: #003049;
+    color: #eae2b7;
+    box-shadow: 0 1rem 1rem -1rem rgba(0,0,0,0.445);
+}
+
+.btn__text{
+    margin-left: 00.8rem;
+}
