@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fbf7f4;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    font-size: 1.3rem;
+    border: none;
+    background-color: #1d3557;
+    color: #f1faee;
+    padding: 0.8rem 1.5rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    transition: 0.3s ease;
+    box-shadow: 0 1rem 2rem -1rem rgba(0,0,0,1.445);
+}
